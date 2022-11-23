@@ -1,0 +1,28 @@
+{
+  "popular":"الاكثر مشاهده",
+  "see_more": "المزيد",
+  "top_rated": "الاكثر تقيماً",
+  "now_playing": "يعرض الان",
+  "more_like_this": "المزيد من هذا",
+  "genres": "الانواع: ",
+  "popular_movies": "الافلام الاكثر مشاهدة",
+  "top_rated_movies": "الافلام الاكثر تقيماً",
+
+  "on_air": "يعرض الان",
+  "popular_tvs": "المسلسلات الاكثر مشاهدة",
+  "top_rated_tvs": "المسلسلات الاكثر تقيما",
+  "episodes": "الحلقات",
+  "season": "الموسم",
+  "seasons": "مواسم",
+  "minute": "د",
+  "hour": "س",
+
+
+  "settings": "الاعدادات",
+  "light_mode": "فاتح",
+  "app_mode": "السمة",
+  "dark_mode": "مظلم",
+  "language": "اللغه",
+  "english": "English",
+  "arabic": "العربيه"
+}

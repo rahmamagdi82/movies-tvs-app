@@ -1,0 +1,27 @@
+{
+  "popular":"Popular",
+  "see_more": "See More",
+  "top_rated": "Top Rated",
+  "now_playing": "Now Playing",
+  "more_like_this": "more like this",
+  "genres": "Genres: ",
+  "popular_movies": "Popular Movies",
+  "top_rated_movies": "Top Rated Movies",
+
+  "on_air": "on the air",
+  "popular_tvs": "Popular Tvs",
+  "top_rated_tvs": "Top Ratted Tvs",
+  "episodes": "episodes",
+  "season": "Season",
+  "seasons": "Seasons",
+  "minute": "m",
+  "hour": "h",
+
+  "settings": "Settings",
+  "light_mode": "Light",
+  "app_mode": "Theme",
+  "dark_mode": "Dark",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic"
+}
